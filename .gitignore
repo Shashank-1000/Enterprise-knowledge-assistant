@@ -15,6 +15,7 @@ __pycache__/
 logs/
 
 # Vector Database
+data/processed/
 data/vector_store/
 
 # Streamlit
