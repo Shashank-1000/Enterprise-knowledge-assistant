@@ -349,3 +349,6 @@ For questions regarding the implementation or design decisions, please feel free
 
 This project leverages several outstanding open-source technologies, including FastAPI, Streamlit, LangChain, FAISS, Hugging Face sentence-transformers, and Google's Gemini API. Their contributions make rapid development of production-oriented AI applications possible.
 
+## Additional Documentation
+
+A detailed **System Design Document** describing the system architecture, data flow, design decisions, and scalability considerations is available in the `docs/` directory.
